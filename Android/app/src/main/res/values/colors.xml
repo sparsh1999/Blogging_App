@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#0069C0</color>
+    <color name="colorAccent">#e53935</color>
+    <color name="prblue">#2196F3</color>
+    <color name="white">#F4F5F6</color>
+    <color name="NotSelected">#747474</color>
+    <color name="Selected">#ff867c</color>
+</resources>
